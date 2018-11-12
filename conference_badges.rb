@@ -5,5 +5,6 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(room_assignments)
-  return 
+  new_array. each do | room_assignments |
+    return room_assignments + ','
 end
